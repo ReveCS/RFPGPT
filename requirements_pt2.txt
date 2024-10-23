@@ -1,0 +1,5 @@
+Setting up Conda
+1. Open up Anaconda Prompt
+2. "where conda"
+3. Open Advanced System Settings -> Enviornment Variables -> Edit Path
+4. Add conda paths

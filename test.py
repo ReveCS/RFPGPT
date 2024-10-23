@@ -1,0 +1,11 @@
+import torch
+
+print(torch.cuda.is_available())
+print(torch.version.cuda)
+
+if torch.backends.mps.is_available():
+    mps_device = torch.device("mps")
+    x = torch.ones(1, device=mps_device)
+    print (x)
+else:
+    print ("MPS device not found.")
