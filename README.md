@@ -1,4 +1,4 @@
-# localGPT
+# RFPGPT
 
 This project was inspired by the original [privateGPT](https://github.com/imartinez/privateGPT). Most of the description here is inspired by the original privateGPT. 
 
@@ -17,9 +17,6 @@ In order to set your environment up to run the code here, first install all requ
 ```shell
 pip install -r requirements.txt
 ```
-
-## Test dataset
-This repo uses a [Constitution of USA ](https://constitutioncenter.org/media/files/constitution.pdf) as an example.
 
 ## Instructions for ingesting your own dataset
 
