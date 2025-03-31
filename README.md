@@ -1,4 +1,4 @@
-# RFPGPT
+# RFP-GPT
 
 Welcome to RFPGPT, a generative AI application that uses Retreival-Augmented Generation (RAG) and custom ingestion pipelines to respond to defense-related Request for Proposals.
 
